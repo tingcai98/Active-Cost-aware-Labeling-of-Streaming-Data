@@ -1,1 +1,1 @@
-# Active-Cost-aware-of-Streaming-Data
+# Active Cost aware of Streaming Data
