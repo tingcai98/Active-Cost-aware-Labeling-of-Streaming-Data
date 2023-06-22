@@ -4,6 +4,7 @@ This GitHub contains the code to run simulations for the paper "Active Cost-awar
 The code is divided into the experiment part (in experiments.ipynb) and the figure plotting part (in plotting.ipynb). For the experiment part, the code for generating the synthetic data and downloading one of our real world datasets (Supernova dataset) is included in experiments.ipynb. The other real-world dataset (Parkinson's dataset[1]) is provided and the code to clean the dataet is included in experiments.ipynb as well.
 
 If you want to use any part of our code, please cite our paper as
+```
 @inproceedings{cai2023active,
   title={Active Cost-aware Labeling of Streaming Data},
   author={Cai, Ting and Kandasamy, Kirthevasan},
@@ -12,6 +13,7 @@ If you want to use any part of our code, please cite our paper as
   year={2023},
   organization={PMLR}
 }
+```
 
 # References
 [1] Athanasios Tsanas, Max Little, Patrick McSharry, and Lorraine Ramig. Accurate telemonitoring of Parkinson’s disease progression by non-invasive speech tests. Nature Precedings, pages 1–1, 2009.
